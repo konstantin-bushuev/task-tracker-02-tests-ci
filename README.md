@@ -9,8 +9,8 @@
 ## План
 
 * [x] `create tests and CI project`
-* [ ] `add test dependencies`
-* [ ] `add TaskService unit tests`
+* [x] `add test dependencies`
+* [x] `add TaskService unit tests`
 * [ ] `add TaskController integration tests`
 * [ ] `add validation and error handling tests`
 * [ ] `configure GitHub Actions CI`
