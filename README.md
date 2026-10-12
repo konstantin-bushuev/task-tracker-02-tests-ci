@@ -12,7 +12,7 @@
 * [x] `add test dependencies`
 * [x] `add TaskService unit tests`
 * [x] `add TaskController integration tests`
-* [ ] `add validation and error handling tests`
+* [x] `add validation and error handling tests`
 * [ ] `configure GitHub Actions CI`
 * [ ] `verify CI workflow`
 * [ ] `complete README`
