@@ -13,6 +13,6 @@
 * [x] `add TaskService unit tests`
 * [x] `add TaskController integration tests`
 * [x] `add validation and error handling tests`
-* [ ] `configure GitHub Actions CI`
+* [x] `configure GitHub Actions CI`
 * [ ] `verify CI workflow`
 * [ ] `complete README`
